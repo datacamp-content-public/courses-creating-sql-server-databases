@@ -4,7 +4,7 @@ description: 'Chapter description goes here.'
 free_preview: true
 ---
 
-## Designing Schemas
+## Organizing the design with schemas 
 
 ```yaml
 type: VideoExercise
